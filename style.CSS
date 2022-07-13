@@ -1,0 +1,294 @@
+.headline {
+    text-align: center;
+    background-color: black;
+    color: darkgrey;
+}
+
+.cover-header {
+    text-align: center;
+    position: relative;
+    top: 20%;
+    margin-right: 60%;
+}
+
+.cov-head {
+    text-align: center;
+    position: relative;
+    top: 40%;
+    margin-left: 70%;
+}
+
+.cover-header h1 {
+
+    color: black;
+    font-size: 220%;
+}
+
+.cov-head h2 {
+    color: gray;
+}
+
+.cov-head h3 {
+    color: darkgrey;
+}
+
+.cover-banner {
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.link-button {
+    background-color: chocolate;
+    color: white;
+    font-weight: 100;
+    padding: 9px 20px;
+    border-radius: 3px;
+    font-size: 12px;
+    border: none;
+}
+
+.button {
+    text-align: center;
+}
+
+.sit {
+    text-align: center;
+}
+
+.sit h4 {
+    color: gray;
+}
+
+.provide-service {
+    text-align: center;
+}
+
+.provide-service h1 {
+    margin-top: 5%;
+    color: darkgrey;
+
+}
+
+.black {
+    background-color: black;
+}
+
+.flexible {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    border-radius: 20%;
+    padding-left: 20px;
+}
+
+#food {
+    background-color: lightblue;
+    border: 10px solid white;
+    padding: 10px;
+}
+
+#money {
+    background-color: tan;
+    border: 10px solid white;
+    padding: 10px;
+}
+
+#blood {
+    background-color: lightpink;
+    border: 10px solid white;
+    padding: 10px;
+}
+
+.width {
+    width: 100%;
+}
+
+.organ-head {
+    margin-top: 5%;
+}
+
+.meet {
+    text-align: center;
+}
+
+.meet h1 {
+    color: darkgrey;
+}
+
+#ekram {
+    border: 10px solid gray;
+    padding: 10px;
+}
+
+#prince {
+    border: 10px solid gray;
+    padding: 10px;
+}
+
+#mukul {
+    border: 10px solid gray;
+    padding: 10px;
+}
+
+.ek-img img {
+    width: 80%
+}
+
+.pri-img img {
+    width: 90%;
+}
+
+.muk-img img {
+    width: 100%;
+}
+
+.news h1 {
+    color: darkgrey;
+}
+
+.news-paper {
+    display: flex;
+    text-align: center;
+    border-radius: 20%;
+    padding-left: 20px;
+}
+
+.news-img img {
+    width: 50%;
+}
+
+fieldset {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.news-about h5 {
+    color: grey;
+}
+
+.contribution-header {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.contribution-header h1 {
+    background-color: black;
+    color: darkgrey;
+}
+
+.contribute-blood {
+    display: flex;
+    margin: 3%;
+    border: 10px solid white;
+}
+
+.contribute-hand {
+    display: flex;
+    margin: 3%;
+    border: 10px solid white;
+}
+
+.contribute-nari {
+    display: flex;
+    margin: 3%;
+    border: 10px solid white;
+}
+
+.contribute-spray {
+    display: flex;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 8%;
+    margin-bottom: 3%;
+    border: 10px solid white;
+}
+
+.contribute-food {
+    display: flex;
+    margin: 3%;
+    border: 10px solid white;
+}
+
+.contri-blood img {
+    width: 30%;
+    height: 100%;
+}
+
+.contri-hand img {
+    width: 40%;
+    height: 45%;
+}
+
+.contri-nari img {
+    width: 30%;
+    height: 110%;
+
+}
+
+.contri-spray img {
+    width: 20%;
+}
+
+.contri-food img {
+    width: 22%;
+    height: 60%;
+}
+
+.donation {
+    text-align: center;
+}
+
+.donation h3 {
+    color: grey;
+}
+
+.donation h4 {
+    color: lightslategrey;
+}
+
+.flex-help {
+    display: flex;
+    margin-top: 5%;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    border-radius: 20%;
+    padding-left: 20px;
+}
+
+.flex {
+    display: flex;
+    margin-left: 300px;
+    margin-right: 100px;
+    margin-top: 0;
+    text-align: left;
+    border-radius: 20%;
+    padding-left: 20px;
+}
+
+#direct {
+    border: 70px solid white;
+    padding: 10px;
+}
+
+#help {
+    border: 70px solid white;
+    padding: 10px;
+}
+
+.direct-plan {
+    width: 100%;
+}
+
+footer {
+    margin-top: 3%;
+    padding: 0% 10%;
+    text-align: center;
+    color: grey;
+    background-color: black;
+}
